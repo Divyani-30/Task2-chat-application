@@ -12,3 +12,5 @@ The real-time communication is powered by Socket.IO, which enables bi-directiona
 Additional features include message styling for differentiation (e.g., "You" vs. others), support for sending messages using the Enter key, auto-scrolling chat display, and clean UI enhancements for a better user experience.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/cd44242b-4e97-41cd-8970-0e4ccf440f3b)
+![Image](https://github.com/user-attachments/assets/4d6ec1bb-0d51-4922-be90-5c2f6da9e557)
